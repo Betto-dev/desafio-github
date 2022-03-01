@@ -1,1 +1,1 @@
-link: https://git-scm.com/download/win
+link de acesso: https://git-scm.com/download/win
